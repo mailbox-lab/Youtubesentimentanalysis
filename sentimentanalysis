@@ -16,7 +16,7 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 # For visualization 
 import matplotlib.pyplot as plt
 
-API_KEY = 'AIzaSyDWtTi59c5LlKizCoT4EJHi5YmH3tCwWhY'# Put in your API Key
+API_KEY = 'AIzaSyxxxxxxxxxxxxxxxxx'# Put in your API Key
 
 youtube = build('youtube', 'v3', developerKey=API_KEY) # initializing Youtube API
 
